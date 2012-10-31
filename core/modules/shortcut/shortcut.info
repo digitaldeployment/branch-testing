@@ -1,0 +1,13 @@
+name = Shortcut
+description = Allows users to manage customizable lists of shortcut links.
+package = Core
+version = VERSION
+core = 8.x
+configure = admin/config/user-interface/shortcut
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

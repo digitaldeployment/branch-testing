@@ -1,0 +1,13 @@
+name = Number
+description = Defines numeric field types.
+package = Core
+version = VERSION
+core = 8.x
+dependencies[] = field
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

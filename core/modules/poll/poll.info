@@ -1,0 +1,15 @@
+name = Poll
+description = Allows your site to capture votes on different topics in the form of multiple choice questions.
+package = Core
+version = VERSION
+core = 8.x
+dependencies[] = node
+stylesheets[all][] = poll.base.css
+stylesheets[all][] = poll.theme.css
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

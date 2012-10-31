@@ -1,0 +1,12 @@
+name = Theme test with invalid base theme
+description = Test theme which has a non-existent base theme.
+core = 8.x
+base theme = not_real_test_basetheme
+hidden = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

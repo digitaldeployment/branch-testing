@@ -1,0 +1,13 @@
+name = "Node module tests"
+description = "Support module for node related testing."
+package = Testing
+version = VERSION
+core = 8.x
+hidden = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

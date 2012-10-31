@@ -1,0 +1,15 @@
+name = Taxonomy
+description = Enables the categorization of content.
+package = Core
+version = VERSION
+core = 8.x
+dependencies[] = options
+dependencies[] = entity
+configure = admin/structure/taxonomy
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

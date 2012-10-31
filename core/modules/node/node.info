@@ -1,0 +1,14 @@
+name = Node
+description = Allows content to be submitted to the site and displayed on pages.
+package = Core
+version = VERSION
+core = 8.x
+dependencies[] = entity
+configure = admin/structure/types
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

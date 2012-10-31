@@ -1,0 +1,14 @@
+name = Theme test base theme
+description = Test theme which acts as a base theme for other test subthemes.
+core = 8.x
+hidden = TRUE
+
+settings[basetheme_only] = base theme value
+settings[subtheme_override] = base theme value
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

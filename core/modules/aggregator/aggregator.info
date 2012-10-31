@@ -1,0 +1,14 @@
+name = Aggregator
+description = "Aggregates syndicated content (RSS, RDF, and Atom feeds) from external sources."
+package = Core
+version = VERSION
+core = 8.x
+configure = admin/config/services/aggregator/settings
+stylesheets[all][] = aggregator.theme.css
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

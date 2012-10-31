@@ -1,0 +1,13 @@
+name = Requirements 1 Test
+description = "Tests that a module is not installed when it fails hook_requirements('install')."
+package = Testing
+version = VERSION
+core = 8.x
+hidden = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

@@ -1,0 +1,14 @@
+name = OpenID dummy provider
+description = "OpenID provider used for testing."
+package = Testing
+version = VERSION
+core = 8.x
+dependencies[] = openid
+hidden = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

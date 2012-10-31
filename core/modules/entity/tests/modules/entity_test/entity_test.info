@@ -1,0 +1,14 @@
+name = Entity CRUD test module
+description = Provides entity types based upon the CRUD API.
+package = Testing
+version = VERSION
+core = 8.x
+dependencies[] = entity
+hidden = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

@@ -1,0 +1,14 @@
+name = Field SQL Storage
+description = Stores field data in an SQL database.
+package = Core
+version = VERSION
+core = 8.x
+dependencies[] = field
+required = TRUE
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

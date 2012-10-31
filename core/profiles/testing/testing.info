@@ -1,0 +1,14 @@
+name = Testing
+description = Minimal profile for running tests. Includes absolutely required modules only.
+version = VERSION
+core = 8.x
+hidden = TRUE
+; @todo Remove dependency on Node module.
+dependencies[] = node
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+

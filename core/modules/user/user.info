@@ -1,0 +1,15 @@
+name = User
+description = Manages the user registration and login system.
+package = Core
+version = VERSION
+core = 8.x
+required = TRUE
+configure = admin/config/people
+stylesheets[all][] = user.css
+
+
+; Information added by drush on 2012-10-30
+version = "3757dcb"
+project = "drupal"
+datestamp = "1351625062"
+
